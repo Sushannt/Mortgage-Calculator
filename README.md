@@ -35,8 +35,9 @@ A simple mortgage calculator web application built with ⚛️ React that helps 
 
 ## 🖼️ Screenshots
 
-![📸Screenshot 1](/src/assets/screenshot/desktop_view.png)
-![📸Screenshot 2](/src/assets/screenshot/mobile_view.png)
+<img src="/src/assets/screenshot/desktop_view.png" alt="📸Screenshot 1" width="500px" />
+<img src="/src/assets/screenshot/mobile_view.png" alt="📸Screenshot 2" width="250px"/>
+
 
 ## 🚀 Installation
 
