@@ -1,0 +1,35 @@
+#root {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* styling the range slider */
+input[type="range"]::-webkit-slider-thumb {
+  width: 1.28em;
+  height: 1.28em;
+  background-color: #352f44;
+  -webkit-appearance: none;
+  border: 0.15em solid white;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+input[type="range"]::-moz-range-thumb {
+  width: 1.28em;
+  height: 1.28em;
+  background-color: #352f44;
+  -moz-appearance: none;
+  border: 0.15em solid white;
+  border-radius: 50%;
+  cursor: pointer;
+}
+input[type="range"]::-ms-range-thumb {
+  width: 1.28em;
+  height: 1.28em;
+  background-color: #352f44;
+  -ms-appearance: none;
+  border: 0.15em solid white;
+  border-radius: 50%;
+  cursor: pointer;
+}
