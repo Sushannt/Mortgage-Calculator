@@ -33,8 +33,8 @@ A simple mortgage calculator web application built with ⚛️ React that helps 
 
 ## 🖼️ Screenshots
 
-![📸Screenshot 1](/src/assets/desktop_view.png)
-![📸Screenshot 2](/src/assets/mobile_view.png)
+![📸Screenshot 1](/src/assets/screenshot/desktop_view.png)
+![📸Screenshot 2](/src/assets/screenshot/mobile_view.png)
 
 ## 🚀 Installation
 
@@ -85,7 +85,7 @@ Below is the structure of the project:
 - 📁 `src/components/PieChart.js`: Component for rendering the pie chart.
 - 📁 `src/helper/calculateLoanData.js`: Functions for calculating loan details.
 - 📄 `src/App.css`: CSS styles for the application.
-- 📁 `src/assets/screenshots/`: Directory containing application screenshots.
+- 📁 `src/assets/screenshot/`: Directory containing application screenshots.
 
 
 # 📧 Contact
